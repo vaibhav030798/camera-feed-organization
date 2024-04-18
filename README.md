@@ -4,11 +4,11 @@ This system is designed to organize the feeds from 5 high-speed cameras, which a
 
 #### Folder Structure:
 
-- **Year-wise**: The feeds are organized into folders for each year, starting from 2024.
-- **Month-wise**: Within each year folder, there are subfolders for each month.
-- **Day-wise**: Within each month folder, there are subfolders for each day.
-- **Hour-wise**: Each day folder contains 24 subfolders, representing each hour (00 to 23).
-- **Video Clips**: Within each hour folder, there are 30 video clips, each 2 minutes long.
+- **Year-wise**: Feeds are sorted into folders for each year, starting from 2024.
+- **Month-wise**: Inside each year folder, there are folders for each month.
+- **Day-wise**: Inside each month folder, there are folders for each day.
+- **Hour-wise**: Each day folder contains 24 folders, representing each hour (00 to 23).
+- **Video Clips**: In each hour folder, there are 30 video clips, each lasting 2 minutes.
 
 
 ## Camera Feeds Flow Structure
